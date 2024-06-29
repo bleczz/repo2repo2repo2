@@ -1,0 +1,8 @@
+﻿  final.cpp
+C:\Users\orcus\Desktop\final\final\matrix_operations.hpp(57,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\orcus\Desktop\final\final\matrix_operations.hpp(87,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\orcus\Desktop\final\final\matrix_operations.hpp(106,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\orcus\Desktop\final\final\matrix_operations.hpp(109,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\orcus\Desktop\final\final\mef_process.hpp(34,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\orcus\Desktop\final\final\mef_process.hpp(68,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  final.vcxproj -> C:\Users\orcus\Desktop\final\x64\Debug\final.exe

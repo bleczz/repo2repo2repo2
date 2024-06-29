@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orcus\\Desktop\\final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|C:\\Users\\orcus\\Desktop\\final\\final\\node.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|solutionrelative:final\\node.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|C:\\Users\\orcus\\Desktop\\final\\final\\mef_process.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|solutionrelative:final\\mef_process.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|C:\\Users\\orcus\\Desktop\\final\\final\\final.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|solutionrelative:final\\final.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|C:\\Users\\orcus\\Desktop\\final\\final\\mesh.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|solutionrelative:final\\mesh.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|C:\\Users\\orcus\\Desktop\\final\\final\\vector.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|solutionrelative:final\\vector.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|C:\\Users\\orcus\\Desktop\\final\\final\\input_output.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|solutionrelative:final\\input_output.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|C:\\Users\\orcus\\Desktop\\final\\final\\element.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|solutionrelative:final\\element.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|C:\\Users\\orcus\\Desktop\\final\\final\\condition.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|solutionrelative:final\\condition.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|C:\\Users\\orcus\\Desktop\\final\\final\\matrix_operations.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|solutionrelative:final\\matrix_operations.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|C:\\Users\\orcus\\Desktop\\final\\final\\matrix.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7290DD8A-2759-498E-BB38-169C281F4F81}|final\\final.vcxproj|solutionrelative:final\\matrix.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mef_process.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\Desktop\\final\\final\\mef_process.hpp",
+              "RelativeDocumentMoniker": "final\\mef_process.hpp",
+              "ToolTip": "C:\\Users\\orcus\\Desktop\\final\\final\\mef_process.hpp",
+              "RelativeToolTip": "final\\mef_process.hpp",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAiwJgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T23:04:55.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vector.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\Desktop\\final\\final\\vector.hpp",
+              "RelativeDocumentMoniker": "final\\vector.hpp",
+              "ToolTip": "C:\\Users\\orcus\\Desktop\\final\\final\\vector.hpp",
+              "RelativeToolTip": "final\\vector.hpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAFYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T23:04:34.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "matrix_operations.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\Desktop\\final\\final\\matrix_operations.hpp",
+              "RelativeDocumentMoniker": "final\\matrix_operations.hpp",
+              "ToolTip": "C:\\Users\\orcus\\Desktop\\final\\final\\matrix_operations.hpp",
+              "RelativeToolTip": "final\\matrix_operations.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T23:04:13.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "matrix.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\Desktop\\final\\final\\matrix.hpp",
+              "RelativeDocumentMoniker": "final\\matrix.hpp",
+              "ToolTip": "C:\\Users\\orcus\\Desktop\\final\\final\\matrix.hpp",
+              "RelativeToolTip": "final\\matrix.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T23:03:46.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "input_output.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\Desktop\\final\\final\\input_output.hpp",
+              "RelativeDocumentMoniker": "final\\input_output.hpp",
+              "ToolTip": "C:\\Users\\orcus\\Desktop\\final\\final\\input_output.hpp",
+              "RelativeToolTip": "final\\input_output.hpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T23:03:29.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mesh.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\Desktop\\final\\final\\mesh.hpp",
+              "RelativeDocumentMoniker": "final\\mesh.hpp",
+              "ToolTip": "C:\\Users\\orcus\\Desktop\\final\\final\\mesh.hpp",
+              "RelativeToolTip": "final\\mesh.hpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAALEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T23:02:48.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "element.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\Desktop\\final\\final\\element.hpp",
+              "RelativeDocumentMoniker": "final\\element.hpp",
+              "ToolTip": "C:\\Users\\orcus\\Desktop\\final\\final\\element.hpp",
+              "RelativeToolTip": "final\\element.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T23:02:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "condition.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\Desktop\\final\\final\\condition.hpp",
+              "RelativeDocumentMoniker": "final\\condition.hpp",
+              "ToolTip": "C:\\Users\\orcus\\Desktop\\final\\final\\condition.hpp",
+              "RelativeToolTip": "final\\condition.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T23:02:05.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "node.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\Desktop\\final\\final\\node.hpp",
+              "RelativeDocumentMoniker": "final\\node.hpp",
+              "ToolTip": "C:\\Users\\orcus\\Desktop\\final\\final\\node.hpp",
+              "RelativeToolTip": "final\\node.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T23:01:44.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "final.cpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\Desktop\\final\\final\\final.cpp",
+              "RelativeDocumentMoniker": "final\\final.cpp",
+              "ToolTip": "C:\\Users\\orcus\\Desktop\\final\\final\\final.cpp",
+              "RelativeToolTip": "final\\final.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T23:00:01.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
